@@ -1,2 +1,3 @@
 # E-commerce-Sales-Dashboard-
-e-commerce sales dashboard using python
+e-commerce sales dashboard using POWER BI
+
